@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 ABAAS BW
 <html lang="ar">
 <head>
