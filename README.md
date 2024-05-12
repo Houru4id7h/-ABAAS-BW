@@ -80,13 +80,13 @@ ABAAS BW
 </script>
 </head>
 <body>
-<input type="text" id="input" oninput="updateRectangles()" placeholder="اكتب الكلمة هنا">
+<input type="text" id="input" oninput="updateRectangles()" placeholder=". اكتب الكلمة هنا">
 <div class="rectangle" id="output1"></div>
 <div class="rectangle" id="output2"></div>
 <div class="rectangle" id="output3"></div>
 <div class="rectangle" id="output4"></div>
 <div class="rectangle" id="output5"></div>
-<!DOCTYPE html>
+
 رموز يمكنك اضافتها بعد الزخرفه
 <html lang="en">
 <head>
